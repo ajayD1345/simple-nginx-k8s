@@ -1,4 +1,4 @@
-# simple-nginx-kubernetes
+# simple-nginx-k8s
 
 This project demonstrates how to deploy a simple Nginx web server on Kubernetes using Pods, Deployments, and Services.
 
