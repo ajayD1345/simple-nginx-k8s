@@ -3,14 +3,14 @@
 This project demonstrates how to deploy a simple Nginx web server on Kubernetes using Pods, Deployments, and Services.
 
 ## Directory Structure
-
+```
 simple-nginx-k8s/
 ├── create/
 │ ├── nginx-pod.yml
 │ ├── nginx-deployment.yml
 │ └── nginx-services.yml
 └── README.md
-
+```
 
 ## Steps to Deploy
 
